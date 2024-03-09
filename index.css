@@ -10,30 +10,39 @@ nav{
     color: white;
     /* font-family: Poppins; */
     scroll-behavior: smooth;
-   background-color: black;
+   /* background-color: black; */
+  background-color: black;
+}
+
 a{
     padding: 20px;
     /* list-style: none; */
     text-decoration: none;
+
 }
 .headerList{
     padding: 20px;
     display: flex;
     justify-content: center;
+  
 
    
 }
+
 .navList{
     list-style: none;
+   
 }
 .HeroDiv{
     display: flex;
+    /* color: black; */
 }
 #Home{
     display: flex;
+    color: black;
 }
 
-}
+
 #MyImage{
 border-radius: 80px;
 height: 80vh;
@@ -42,10 +51,32 @@ margin-right: 50px;
 .mainSection{
     display: flex;
 }
-.imagery {
-    /* height: 0%; */
-}
+
 .Hero{
 display: flex;
 justify-content: space-between;
+margin-top: 60px;
+margin-left: 50px;
+/* background-color: beige; */
+color: black;
+}
+.aboutMe{
+margin-top: 40px;
+}
+.getInTouchButton{
+    border-radius: 30px;
+    background-color: aliceblue;
+    height: 35px;
+    
+}
+.downloadCVButton{
+    border-radius: 30px;
+    background-color: black;
+    height: 35px;
+}
+#gitB{
+    background-color: aliceblue;
+}
+.experience{
+    justify-content: center;
 }
