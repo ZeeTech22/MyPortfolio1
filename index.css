@@ -1,0 +1,51 @@
+nav{
+    background-color: cadetblue;
+
+   
+}
+*{
+    padding: 0;
+    margin: 0;
+    /* background-color: #161513; */
+    color: white;
+    /* font-family: Poppins; */
+    scroll-behavior: smooth;
+   background-color: black;
+a{
+    padding: 20px;
+    /* list-style: none; */
+    text-decoration: none;
+}
+.headerList{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+
+   
+}
+.navList{
+    list-style: none;
+}
+.HeroDiv{
+    display: flex;
+}
+#Home{
+    display: flex;
+}
+
+}
+#MyImage{
+border-radius: 80px;
+height: 80vh;
+margin-right: 50px;
+}
+.mainSection{
+    display: flex;
+}
+.imagery {
+    /* height: 0%; */
+}
+.Hero{
+display: flex;
+justify-content: space-between;
+}
